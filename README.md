@@ -7,6 +7,7 @@ This Spring we are trying out two projects in this partnership – (1) a data-dr
 For the hydrology course we have already reached out to a hydrology field and data expert, Val Zimmer.  The project entails us joining the class on two lecture periods an one field period – lecture, field, lecture – with the hope that we can learn about the how the hydrologic data life cycle (collect, store, use) informs real world problems (how we use regulate instream flows, water budgets, etc.).  We already went to the first overview lecture, the field day is coming up (if anyone is interested in going let me know), and the final lecture, where Rafa will work with the students to show how data can integrated and used, is in April. We plan to repeat this cycle next year if it seems like the effort on both sides is worth it.
 
 February 7, 2019 lecture event:
+
 Greg's slides - 
 https://docs.google.com/presentation/d/1otuzwu2Dwr1BB1FgLtQKR2cyWOAS0mIsckYHEObeOOA/edit?usp=sharing
 
